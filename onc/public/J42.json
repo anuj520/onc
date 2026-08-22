@@ -1,0 +1,35 @@
+[
+    {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261140/ch1_ztt6u0.png",
+        "color" : "#13A3F0"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261471/ch3_x9zbhy.png",
+        "color" : "#6F3EAD"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261473/ch4_vpxjzx.png",
+        "color" : "#FD4B39"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261469/ch5_mnvtfq.png",
+        "color" : "#FFD718"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261259/ch2_t2ppnn.png",
+        "color" : "#00FF4A"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261467/ch6_mk9wp9.png",
+        "color" : "#FF2771"
+    }
+    ,
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757261431/ch7_jl5xfn.png",
+        "color" : "#F0A979"
+    },
+    {
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757261475/ch8_hrhlxh.png",
+        "color": "#00C5BD"
+    }
+]

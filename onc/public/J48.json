@@ -1,0 +1,59 @@
+[
+    {
+        "img":"https://res.cloudinary.com/dycmuvzze/image/upload/v1757171323/moun2_kanjng.png",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757244373/Wolverine__The_Best_There_Is___Character_Reveal___Marvel_Rivals_eoaoaj.mp4",
+        "name": "Marval",
+        "name2" :"Rivales",
+        "color" :"#EBCA57",
+        "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757175546/J43v_4_ixwyun.mp4",
+        "localimg":"https://4kwallpapers.com/images/wallpapers/marvel-rivals-2880x1800-20191.jpg"
+    },
+    {
+        "id" : "1",
+        "img":"https://res.cloudinary.com/dycmuvzze/image/upload/v1757171340/yoku_lappbs.png",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757176903/bluevalo_lpxari.mp4",
+        "name": "Riot",
+        "name2" :"valorant",
+        "color":"#354B8E",
+        "localimg":"https://images3.alphacoders.com/112/thumb-1920-1125076.png",
+        "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757175886/A1_n54lnl.mp4"
+    },
+    {
+        "id" : "2",
+        "img":"https://res.cloudinary.com/dycmuvzze/image/upload/v1757171357/asswh_1_r51mcp.png",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757177195/ass_jmwbra.mp4",
+        "name": "AC",
+        "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757175503/J43v_1_ylc8yu.mp4", 
+        "name2" :"Mirage",
+        "color": "#ACA398",
+        "localimg" :"https://c.wallhere.com/photos/b1/39/Assassin's_Creed_Mirage_4K_Assassin's_Creed_Ubisoft_video_games_video_game_man_video_game_characters-2171817.jpg!d"
+    },{
+        "id" : "3",
+        "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e5896a5-4a79-496a-bea4-81f26cfa2650/dd277w2-779a25b6-5fae-43f9-aa6f-5bebff676b8d.png/v1/fill/w_576,h_1388/devil_may_cry_v___dante___transparent_render_png_by_deg5270_dd277w2-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA4MyIsInBhdGgiOiJcL2ZcLzVlNTg5NmE1LTRhNzktNDk2YS1iZWE0LTgxZjI2Y2ZhMjY1MFwvZGQyNzd3Mi03NzlhMjViNi01ZmFlLTQzZjktYWE2Zi01YmViZmY2NzZiOGQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.h2V1HFhITzAzTe5Vt690BWIs5adL7yTqc4JL0x90KH0",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757244406/Devil_May_Cry_5_-_Vergil_DLC_Trailer___PS4_eet21y.mp4",
+        "name": "devil",
+        "name2" :"maycry 5",
+        "color": "#674454",
+        "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757175544/J43v_3_fl7osx.mp4", 
+        "localimg" : "https://wallpaperaccess.com/full/3386829.jpg"    
+    },{
+        "id" : "4",
+        "img":"https://gmedia.playstation.com/is/image/SIEPDC/apex-legends-fuse-image-block-01-ps4-en-03may22?$native--t$",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757177704/apex_bthajh.mp4",
+        "name": "Apex",
+        "name2" :"legends",
+        "color": "#474543",
+         "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757175553/J43v_2_wkiedo.mp4",    
+         "localimg":"https://www.teahub.io/photos/full/269-2699660_apex-wallpaper.png"
+    },
+    {
+        "id" : "5",
+        "img":"https://res.cloudinary.com/dycmuvzze/image/upload/v1757171421/petdog_cdmpsj.png",
+        "video": "https://res.cloudinary.com/dycmuvzze/video/upload/v1757176586/G3_luxew4.mp4",
+        "name": "IKUMA",
+        "name2" :"t-Frozen",
+        "color": "#792D1A",
+         "livewallpaer" :"https://res.cloudinary.com/dycmuvzze/video/upload/v1757176382/winter_vonzcl.mp4",    
+         "localimg":"https://www.gematsu.com/wp-content/uploads/2025/04/IKUMA-The-Frozen-Compass_2025_04-10-25_004.jpg"
+    }
+]

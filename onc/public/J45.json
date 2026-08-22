@@ -1,0 +1,44 @@
+[
+    {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757245361/actionh_fjz9r6.png",
+        "color1" :"#000000",
+     "toname": "Experience the thrill of next-level gaming with intense action, immersive graphics, and adrenaline-pumping challenges that keep you hooked for hours.",
+  "para": "Only the strongest players can dominate the battlefield",
+      "para2": "Top Best Action Game",
+        "name": "ACTION",
+        "color2" :"#F1293B",
+        "darkcolor" :"#F1293B",
+        "circle" :"#A81501",
+        "circle2" : "#161A20",
+        "path":"/genreD/Action"
+    },
+     {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757245372/story2_vxbaia.png",
+        "color1" :"#000",
+  "toname": "Dive into a world full of emotions, deep storytelling, and unforgettable characters where every choice shapes your journey and defines your destiny.",
+  "para": "Every decision you make writes your own story",
+  "para2": "Top Best Story Game",
+        "name": "STORY",
+        "color2" :"#02516F",
+        "darkcolor" :"#15CCDF",
+        "gamecolor" :"#0DE4EB",
+        "circle" :"#6F2443",
+        "circle2" : "#0B4A5E",
+        "path":"/genreD/Adventure"
+    },
+     {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757245391/advan_j8jltk.png",
+        "color1" :"#000",
+  "toname": "Enter the arena where only the strongest survive, unleash powerful combos, master your skills, and defeat every opponent standing in your way.",
+  "para": "Only true fighters rise to the top",
+  "para2": "Top Best Fighter Game",
+        "name": "FIGHTER",
+        "color2" :"#E4B261",
+        "darkcolor" :"#F2CA83",
+        "gamecolor" :"#F2CA83",
+        "circle" :"#B48235",
+        "circle2" : "#1E2127",
+        "path":"/genreD/RPG"
+    }
+   
+]

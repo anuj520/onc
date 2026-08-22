@@ -1,0 +1,32 @@
+[
+    {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757217003/spem_s4lbeh.png",
+        "color1" :"#3589A8",
+        "color2" :"#861A37"
+    },
+     {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757216976/tofotball_oeqo8h.png",
+        "color2" :"#83C1FA",
+        "color1" :"#B21227"
+    },
+    {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757217026/kata_txdxva.png",
+        "color1" :"#737373",
+        "color2" :"#FDFCFF"
+    },
+        {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757216989/naroto_iol10f.png",
+        "color1" :"#006658",
+        "color2" :"#BD6BC4"
+    },
+        {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757217040/greenblack_ldoqzy.png",
+        "color1" :"#0A2F48",
+        "color2" :"#82F9F7"
+    },
+      {
+        "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757217057/bluelight_syf0gi.png",
+        "color1" :"#21F4FC",
+        "color2" :"#072E4B"
+    }
+]

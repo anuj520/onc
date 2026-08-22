@@ -1,0 +1,52 @@
+[
+    {
+        "p" : "Singleplayer is a game mode where one person plays alone, experiencing story-driven adventures, AI opponents, and personal challenges. Games like Skyrim and The Witcher offer deep solo experiences with exploration and freedom.",
+        "name":"Singleplayer",
+        "img": "https://img2.wallspic.com/crops/3/1/6/6/6/166613/166613-battlefield_2042-dice-electronic_arts-multiplayer_video_game-shooter_game-3840x2160.jpg"
+    },
+    {
+        "p" : "Steam Achievements are rewards earned by players for completing challenges in games. They track progress, encourage exploration, and let players showcase accomplishments and compare milestones with friends.",
+        "name":"Steam Achievements",
+        "img": "https://i2-prod.mirror.co.uk/gaming/article30350122.ece/ALTERNATES/s615/4_Steam-Summer-Sale-2023.jpg"
+    },
+    {
+        "p" : "Multiplayer is a game mode where multiple players interact online or locally, competing or cooperating in dynamic gameplay. It fosters teamwork, strategy, and social connection in games like Fortnite, Pubg and Counter-Strike.",
+        "name":"Multiplayer",
+        "img": "https://wallpaperaccess.com/full/3169357.jpg"
+    },
+    {
+        "p" : "Full controller support means a game can be played entirely with a controller, without needing a keyboard or mouse. It ensures seamless gameplay on platforms like Steam and consoles.",
+        "name":"Full controller support",
+        "img": "https://wallpaperaccess.com/full/231781.jpg"
+    },
+    {
+        "p" : "Steam Cloud allows players to store game progress, settings, and saves online, enabling access across devices. It ensures data backup, preventing loss due to hardware failure or reinstallations.",
+        "name":"Steam Cloud",
+        "img": "https://wallpaper.dog/large/5568931.jpg"
+    },
+    {
+        "p" : "Atmospheric games create immersive environments using detailed visuals, sound, and storytelling to evoke emotion and mood. They enhance player experience with deep ambiance, making worlds feel alive and engaging.",
+        "name":"Atmospheric",
+        "img": "https://wallpaperaccess.com/full/2086970.jpg"
+    },
+    {
+        "p" : "Steam Trading Cards are virtual collectibles earned by playing Steam games. Players can trade, sell, or craft them into badges, unlocking profile rewards like backgrounds, emoticons, and XP.",
+        "name":"steam-trading-cards",
+        "img": "https://preview.redd.it/2gzr5s71dws61.jpg?width=1920&format=pjpg&auto=webp&s=47ffd7073780a0cec2b396952ec6fa47f459b658"
+    },
+    {
+        "p" : "A great soundtrack enhances a game's atmosphere, evoking emotion and immersion. Memorable music complements gameplay, heightening tension, excitement, or nostalgia in titles like Celeste or The Witcher 3",
+        "name":"Great Soundtrack",
+        "img": "https://th.bing.com/th/id/OIP.xW4G0EGBtJPpT71w_kL2PwAAAA?w=400&h=400&rs=1&pid=ImgDetMain"
+    },
+    {
+        "p" : "RPG (Role-Playing Game) lets players control characters, make story-driven choices, and develop skills. Games like Elden Ring and The Witcher 3 offer deep narratives and exploration.",
+        "name":"RPG",
+        "img": "https://wallpaperaccess.com/full/285188.jpg"
+    },
+    {
+        "p" : "Co-op (cooperative gameplay) lets players work together in a shared game experience, completing objectives, solving challenges, or battling enemies. Games like Minecraft and It Takes Two emphasize teamwork.",
+        "name":"Co-op",
+        "img": "https://wallpapers.com/images/hd/multiplayer-game-3840-x-2160-wallpaper-i03598abtyd2c3nf.jpg"
+    }
+]

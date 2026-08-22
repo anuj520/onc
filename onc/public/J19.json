@@ -1,0 +1,229 @@
+[
+    {
+        "p" : "PC games span various genres, offering rich graphics, multiplayer options, and customization. Titles like Cyberpunk 2077 and Elden Ring showcase immersive storytelling, strategy, and engaging gameplay experiences.",
+        "name":"PC",
+        "img": "https://dxbgamers.com/wp-content/uploads/2022/03/RAMADAN5-2.jpg"
+    },
+    {
+        "p" : "PlayStation 5 is Sony’s ninth-generation console, featuring ultra-fast SSD storage, stunning graphics, 3D audio, and immersive gameplay. It supports backward compatibility and exclusive titles like Spider-Man and Final Fantasy",
+        "name":"PlayStation 5",
+        "img": "https://spennytechnologies.com/wp-content/uploads/2020/12/Sony-PlayStation-5-PS5-Digital-Edition.png"
+    },
+    {
+        "p" : "Xbox One is Microsoft's eighth-generation console, offering HD gaming, backward compatibility, and online multiplayer. It supports streaming, Xbox Game Pass, and exclusives like Halo and Forza Horizon",
+        "name":"Xbox One",
+        "img": "https://i5.walmartimages.com/seo/Restored-Microsoft-Xbox-One-X-1TB-4K-Ultra-HD-Gaming-Console-in-Black-FMQ-00042-889842246971-Refurbished_80c774b9-f0dd-4371-888a-ee8f8e8cec08_1.9ba17d1fd0c3ad3ba7c0ad8545de4a6e.jpeg"
+    },
+    {
+        "name":"PlayStation 4",
+        "p" : "PlayStation 4 delivers stunning graphics, immersive gameplay, and a vast library of games. It supports online multiplayer, streaming, and exclusive titles like Uncharted and God of War.",
+        "img": "https://www.bhphotovideo.com/images/images2000x2000/sony_3003131_ps4_1tb_days_of_1408290.jpg"
+    },
+    {
+        "name":"Xbox Series S/X",
+        "p": "Xbox Series S/X offers next-gen gaming with stunning visuals, fast load times, and a vast library of games, including backward compatibility with older titles.",
+        "img": "https://s.hdnux.com/photos/01/14/75/44/20175116/3/1200x0.jpg"
+    },
+    {
+        "name":"Atmospheric",
+        "p": "Atmospheric games immerse players in rich, detailed worlds with captivating visuals, soundscapes, and storytelling, creating unforgettable gaming experiences across various genres.",
+        "img": "https://www.fanatical.com/api/image/76a87722-a4df-425e-b3aa-c183e0b43ead_jpeg/e8715365-d8af-4336-a965-2f09df6dbc51_png/763c1499-a296-4e47-a647-c067616b5de3_jpeg/eb6b34bb-2f85-40ff-99d1-9777c769b93e_jpeg/c56694a9-9e11-4764-9a52-77b01d9becdb_jpeg/1bc6e519-742f-4642-a092-dbb96f2565b6_jpeg/cb7f5f08-62d7-45a1-a91c-68006e032fbc_jpeg/c35ad0a5-bfe2-42fc-a7db-cd4e4e794952_jpeg"
+    },
+    {
+        "name":"Nintendo Switch",
+        "p": "Nintendo Switch combines home and portable gaming, offering exclusive titles like Zelda and Mario, multiplayer options, and innovative gameplay with Joy-Con controllers.",
+        "img": "https://www.impulsegamer.com/articles/wp-content/uploads/2017/03/switchme.jpg"
+    },
+    {
+        "name":"IOS",
+        "p": "iOS gaming provides a vast selection of games, from casual to immersive, leveraging Apple's hardware and App Store ecosystem for seamless mobile experiences.",
+        "img": "https://developer.apple.com/news/images/og/ios-17-og.jpg"
+    },
+    {
+        "name":"Android",
+        "p": "Android gaming offers diverse titles across genres, leveraging Google Play Store and powerful devices for immersive experiences, including multiplayer and cloud gaming options.",
+        "img": "https://wallpaperaccess.com/full/285188.jpg"
+    },
+    {
+        "name":"Nintendo 3DS",
+        "p": "Nintendo 3DS features glasses-free 3D gaming, a vast library of titles, and backward compatibility, delivering portable entertainment for gamers of all ages.",
+        "img": "https://d.player.one/en/full/175524/we-list-best-nintendo-3ds-games-2017.jpg?w=1600&h=1200&q=88&f=82e477530f2ded8439fe700146af28c1"
+    },
+    {
+        "name":"Nintendo DS",
+        "p": "Nintendo DS revolutionized portable gaming with dual screens, touch controls, and a wide range of games, becoming a beloved handheld console worldwide.",
+        "img": "https://images.nintendolife.com/57629d2181f91/nintendo-ds-tetris-ds.large.jpg"
+    },   
+    {
+        "name":"Nintendo DSi",
+        "p": "Nintendo DSi enhanced the DS experience with cameras, an online store, and improved hardware, offering new ways to play and create on the go.",
+        "img": "https://www.lifewire.com/thmb/z7XtSphJC4L0CuJ8V5qC96Y0ZxM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/nintendo-dsi-42147b635698483bb992a935aaf0985b.jpg"
+    },   
+     {
+        "name":"macOS",
+        "p": "macOS gaming supports a growing library of titles, leveraging Apple's hardware and ecosystem for smooth performance and immersive experiences across genres.",
+        "img": "https://th.bing.com/th/id/OIP.4ZXnaJlEt2jr-ujAVGEjSAHaEK?cb=iwc1&rs=1&pid=ImgDetMain"
+    },   
+     {
+        "name":"Linux",
+        "p": "Linux gaming has expanded with Steam Proton and native support, offering a diverse library of games for open-source enthusiasts and developers alike.",
+        "img": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_950,h_686/https://insights.ubuntu.com/wp-content/uploads/0967/1.-system-76-v.2.jpg"
+    },   
+     {
+        "name":"Xbox 360",
+        "p": "Xbox 360 revolutionized gaming with HD graphics, online multiplayer via Xbox Live, and a vast library of iconic titles like Halo and Gears of War.",
+        "img": "https://www.windowsobserver.com/wp-content/uploads/2013/11/xbox360x1.png"
+    },   
+     {
+        "name":"Xbox",
+        "p": "The original Xbox introduced groundbreaking features like a built-in hard drive, online gaming with Xbox Live, and iconic titles like Halo: Combat Evolved.",
+        "img": "https://assets-prd.ignimgs.com/2021/06/09/xboxtv-blogroll-1623264819952.jpg?width=1280"
+    },
+    {
+        "name":"PlayStation 3",
+        "p": "PlayStation 3 delivered HD gaming, Blu-ray playback, and online multiplayer, offering a diverse library of exclusive titles like Uncharted and The Last of Us.",
+        "img": "https://www.techspot.com/images/products/2012/audio-video/org/2016-04-28-product-4.jpg"
+    }, {
+        "name":"PlayStation 2",
+        "p": "PlayStation 2 became the best-selling console with a vast library of games, DVD playback, and groundbreaking titles like Final Fantasy X and GTA III.",
+        "img": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/playstation-2-devices-on-pc-dualshock-2.jpg"
+    },
+    {
+        "name":"PlayStation",
+        "p": "PlayStation revolutionized gaming with cutting-edge technology, exclusive titles, and immersive experiences, becoming a global icon in the gaming industry.",
+        "img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/07/9-PS4.jpg"
+    }, {
+        "name":"PS Vita",
+        "p": "PS Vita offered portable gaming with stunning visuals, touch controls, and a vast library of games, delivering immersive experiences on the go.",
+        "img": "https://www.techpowerup.com/img/11-06-07/42a.jpg"
+    },
+    {
+        "name":"PSP",
+        "p": "PSP brought console-quality gaming to handheld devices, featuring multimedia capabilities, online connectivity, and a diverse library of games.",
+        "img": "https://th.bing.com/th/id/OIP.2cIuUl7VPatT9llA9WHjKgHaHa?cb=iwc1&rs=1&pid=ImgDetMain"
+    },
+    {
+        "name":"Wii U",
+        "p": "Wii U introduced innovative dual-screen gameplay, offering unique gaming experiences and a library of beloved Nintendo titles.",
+        "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/systems_5/wiiu_12/hardware_features/home/CI_WiiU_img2.jpg"
+    },
+    {
+        "name":"Wii",
+        "p": "Wii revolutionized gaming with motion controls, family-friendly games, and a focus on active, social gameplay experiences.",
+        "img": "https://static2.thegamerimages.com/wordpress/wp-content/uploads/2020/08/wiiboy-color-game-boy.jpg"
+    },
+    {
+        "name":"GameCube",
+        "p": "GameCube delivered compact design, innovative controllers, and a library of iconic Nintendo games, becoming a fan-favorite console.",
+        "img": "https://www.gymupstore.cl/wp-content/uploads/2023/05/20230509_003857_0000.png"
+    },
+    {
+        "name":"Nintendo 64",
+        "p": "Nintendo 64 introduced 3D gaming, iconic titles, and multiplayer experiences, leaving a lasting legacy in gaming history.",
+        "img": "https://img.favpng.com/6/22/3/nintendo-64-game-boy-color-game-boy-advance-game-boy-family-png-favpng-Vettm65WGEScvmPwPDyc2gR1z.jpg"
+    },  {
+        "name":"Game Boy Advance",
+        "p": "Game Boy Advance offered vibrant graphics, backward compatibility, and a vast library of games, redefining portable gaming.",
+        "img": "https://retrovgames.com/wp-content/uploads/2024/06/Game-Boy-Color-vs-Game-Boy-Advance.jpg"
+    },  {
+        "name":"Game Boy Color",
+        "p": "Game Boy Color introduced color graphics and a wide range of games, enhancing the portable gaming experience.",
+        "img": "https://d2j6dbq0eux0bg.cloudfront.net/images/17412255/1596670281.jpg"
+    },  {
+        "name":"Game Boy",
+        "p": "Game Boy revolutionized portable gaming with its compact design, long battery life, and iconic games like Tetris.",
+        "img": "https://wallpapercave.com/wp/wp9351176.jpg"
+    },  {
+        "name":"SNES",
+        "p": "SNES delivered groundbreaking graphics, sound, and a legendary library of games, cementing its place in gaming history.",
+        "img": "https://wallpaperaccess.com/full/1380641.jpg"
+    },  {
+        "name":"NES",
+        "p": "NES revived the gaming industry with iconic titles, innovative gameplay, and a legacy that shaped modern gaming.",
+        "img": "https://wallpaperaccess.com/full/1850389.png"
+    },  {
+        "name":"Classic Macintosh",
+        "p": "Classic Macintosh introduced graphical user interfaces, revolutionizing personal computing and inspiring creativity in gaming and software development.",
+        "img": "https://studio711.com/wp-content/uploads/macclassic.jpg"
+    },  {
+        "name":"Apple II",
+        "p": "Apple II pioneered personal computing with its versatility, inspiring early gaming and software development.",
+        "img": "https://cdn.mos.cms.futurecdn.net/k5bh5tMAaDAjbxgNc8TmWB.jpg"
+    },  {
+        "name":"Commodore / Amiga",
+        "p": "Commodore/Amiga systems offered advanced graphics and sound, becoming a favorite for gaming and creative applications.",
+        "img": "https://wallpapercave.com/wp/wp11135561.jpg"
+    },  {
+        "name":"Atari 7800",
+        "p": "Atari 7800 delivered arcade-quality gaming at home, offering backward compatibility and a diverse game library.",
+        "img": "https://wallpapercave.com/wp/wp14164836.jpg"
+    },  {
+        "name":"Atari 5200",
+        "p": "Atari 5200 introduced advanced graphics and sound, enhancing the home gaming experience with innovative features.",
+        "img": "https://wallpapercave.com/wp/wp13336969.jpg"
+    },  {
+        "name":"Atari 2600",
+        "p": "Atari 2600 popularized home gaming with its iconic joystick, cartridges, and classic titles like Space Invaders.",
+        "img": "https://th.bing.com/th/id/OIP.eYRwRMw7jyVLYyNeOPKFLwHaEy?cb=iwc1&rs=1&pid=ImgDetMain"
+    },  {
+        "name":"Atari Flashback",
+        "p": "Atari Flashback consoles brought retro gaming to modern audiences with preloaded classic titles and nostalgic design.",
+        "img": "https://guide-images.cdn.ifixit.com/igi/GrGvXUHJkimdGEM6.medium"
+    },  {
+        "name":"Atari 8-bit",
+        "p": "Atari 8-bit computers combined gaming and productivity, offering advanced graphics and sound for their time.",
+        "img": "https://d31xsmoz1lk3y3.cloudfront.net/big/474.jpg?v=1576693401"
+    }, {
+        "name":"Atari ST",
+        "p": "Atari ST provided powerful computing and gaming capabilities, becoming a favorite for musicians and gamers alike.",
+        "img": "https://ctrl-alt-rees.com/images/wallpapers/thumbnails/sttour.png"
+    }, {
+        "name":"Atari Lynx",
+        "p": "Atari Lynx offered color handheld gaming with innovative features like multiplayer connectivity and advanced graphics.",
+        "img": "https://atarilynxvault.com/sites/default/files/inline-images/Wallpaper9.png"
+    }, {
+        "name":"Atari XEGS",
+        "p": "Atari XEGS combined gaming and computing, offering a versatile system for entertainment and productivity.",
+        "img": "https://vistapointe.net/images/atari-xegs-wallpaper-18.jpg"
+    }, {
+        "name":"Genesis",
+        "p": "Genesis brought 16-bit gaming to the masses with fast gameplay, iconic titles, and fierce competition with Nintendo.",
+        "img": "https://th.bing.com/th/id/OIP.bqcuLnZ-wpyYBOHxxCUSRAHaEo?cb=iwc1&rs=1&pid=ImgDetMain"
+    }, {
+        "name":"SEGA Saturn",
+        "p": "SEGA Saturn delivered 32-bit gaming with advanced graphics, sound, and a library of unique titles.",
+        "img": "https://wallpapercave.com/wp/wp6850989.jpg"
+    }, {
+        "name":"SEGA CD",
+        "p": "SEGA CD expanded Genesis capabilities with full-motion video, CD-quality sound, and innovative gameplay experiences.",
+        "img": "https://wallpapercave.com/wp/wp9345242.jpg"
+    }, {
+        "name":"SEGA 32X",
+        "p": "SEGA 32X enhanced Genesis with 32-bit graphics and a small library of unique games.",
+        "img": "https://wallpapercave.com/wp/wp10265343.jpg"
+    }, {
+        "name":"SEGA Master System",
+        "p": "SEGA Master System offered 8-bit gaming with vibrant graphics and a library of classic titles.",
+        "img": "https://wallpapercave.com/wp/wp10852243.png"
+    }, {
+        "name":"Dreamcast",
+        "p": "Dreamcast introduced online gaming, innovative hardware, and a library of beloved titles, leaving a lasting legacy.",
+        "img": "https://cdn.wallpapersafari.com/97/99/GspgvU.jpg"
+    }, {
+        "name":"3DO",
+        "p": "3DO offered advanced multimedia capabilities and a diverse library of games, pioneering CD-based gaming.",
+        "img": "https://wallpapercave.com/wp/wp11139245.jpg"
+    },{
+        "name":"Jaguar",
+        "p": "Jaguar delivered 64-bit gaming with unique titles, aiming to compete in the evolving console market.",
+        "img": "https://th.bing.com/th/id/R.ab1cec83708c3505fb8479bd2452f675?rik=Rr8HGV4eVK%2bmxQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f_D8bwUP6Y7ug%2fSS06yLysxsI%2fAAAAAAAAAW4%2f5GZ87Cko2Vs%2fw1200-h630-p-k-no-nu%2fjaguar03.jpg&ehk=wJXs11CdIZMAx17ARwmDJ2R543eb75lYA4PU9kizzyg%3d&risl=&pid=ImgRaw&r=0"
+    },{
+        "name":"Game Gear",
+        "p": "Game Gear brought color handheld gaming with a backlit screen and a library of SEGA titles.",
+        "img": "https://wallpapercave.com/wp/wp12018590.jpg"
+    },{
+        "name":"Neo Geo",
+        "p": "Neo Geo offered arcade-quality gaming at home with advanced graphics, sound, and a premium experience.",
+        "img": "https://wallpaperaccess.com/full/1586151.jpg"
+    }
+]

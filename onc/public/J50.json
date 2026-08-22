@@ -1,0 +1,23 @@
+[
+    {
+        "img": "https://i.pinimg.com/736x/12/e0/c9/12e0c9c80a81c3423132cb532283b2e9.jpg",
+        "name2": "Forza",
+         "name": "Horizon 5",
+         "color": "#97C2E5",
+         "name3":"Forza Horizon 5"
+    },
+     {
+        "img": "https://images.wallpapersden.com/image/download/naraka-bladepoint-hd-post_bG5obm2UmZqaraWkpJRobWllrWdma2U.jpg",
+        "name2": "Naraka:",
+         "name": "Bladepoint",
+         "color": "#EE0300",
+         "name3":"Naraka: Bladepoint"
+    },
+     {
+        "img": "https://i.pinimg.com/1200x/23/16/73/2316733d0867143ee79f92ddea34f1cc.jpg",
+        "name2": "Uncharted",
+         "name": "The Lost L..",
+         "color": "#5F5861",
+         "name3" :"Uncharted The Lost Legacy"
+     }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name" : "Action",
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757169523/getc_7_q554of.png"
+    },
+    {
+        "name" : "BATTLE ROYALE",
+        "img" :"https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/fullportrait.png"
+
+    }, {
+        "name" : "INDIE",
+        "img" :"https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-Background-PNG-Image.png"
+    }
+    , {
+        "name" : "advanture",
+        "img" :"https://www.zeldadungeon.net/wiki/images/f/fd/Link.png"
+    }
+    , {
+        "name" : "RPG",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169530/getc_5_dusfar.png"
+    }
+    , {
+        "name" : "STRATEGY",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169580/dota2_nwd9s4.png"
+    }
+    , {
+        "name" : "SHOOTER",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169540/getc_4_dkjs6n.png"
+    }
+    , {
+        "name" : "casual",
+        "img" :"https://i.pinimg.com/originals/5f/e4/ee/5fe4ee64b792bcf51e96545a450dcba4.png"
+    }
+    , {
+        "name" : "SIMULATION",
+        "img" :"https://pngimg.com/d/naruto_PNG43.png"
+    },
+    {
+        "name" : "story",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169542/getc_3_jlngtn.png"
+    },
+    {
+        "name" : "ARCADE",
+        "img" :"https://static.vecteezy.com/system/resources/thumbnails/036/030/722/small_2x/ai-generated-arcade-game-3d-design-suitable-for-video-games-and-design-elements-png.png"
+    },
+    {
+        "name" : "PLATFORMER",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169523/getc_6_f5c3op.png"
+    },
+    {
+        "name" : "MULTIPLAYER",
+        "img" :"https://marvelrivals.wiki.gg/images/thumb/7/7b/Hulk_Full_Body_Artwork.png/600px-Hulk_Full_Body_Artwork.png"
+    },
+    {
+        "name" : "RACING",
+        "img" :"https://res.cloudinary.com/dycmuvzze/image/upload/v1757169547/getc_1_om6xge.png"
+    },
+    {
+        "name" : "SPORTS",
+        "img" :"https://www.pngmart.com/files/22/Sergio-Ramos-PNG-Image.png"
+    },
+    {
+        "name" : "fighting",
+        "img" :"https://assets.altarofgaming.com/wp-content/uploads/2023/06/marshall-law-tekken-8-character-artwork-altar-of-gaming-1322-717x1024.png"
+    },
+    {
+        "name" : "EDUCATIONAL ",
+        "img" :"https://wallpapers.com/images/hd/educational-lego-minifigures-png-06262024-q47bdbbxtussocn8.png"
+
+    },
+    {
+        "name" : "family",
+        "img" :"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b34773a-3364-4bde-924e-6d4e9258a8c4/df6xx1d-1945fa0b-af47-4515-8126-c37c3782b633.png/v1/fill/w_751,h_1064/spyxfamily_render_by_nanavichan_df6xx1d-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgxMiIsInBhdGgiOiJcL2ZcLzZiMzQ3NzNhLTMzNjQtNGJkZS05MjRlLTZkNGU5MjU4YThjNFwvZGY2eHgxZC0xOTQ1ZmEwYi1hZjQ3LTQ1MTUtODEyNi1jMzdjMzc4MmI2MzMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KHcPANvAu3n-hr4JmdkkdaU3KgfmrgtbrBUP6TdC25c"
+
+    }
+    
+]

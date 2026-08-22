@@ -1,0 +1,84 @@
+[
+    {
+         "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757218222/gost_xihe4g.png",    
+        "length" :"Marvel Rivals",
+        "text" : "Marval",
+        "text2": "Riva",
+        "text1": "les",
+        "margin" :"2% 0% 0% 21%",
+        "height": "98vh",
+        "drop":"drop-shadow(10px 10px 10px #CDCDC4)",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757230482/moon_wm4afx.mp4",
+        "color" : "#CDCDC4"
+    },
+     {
+        "img" : "https://res.cloudinary.com/dycmuvzze/image/upload/v1757218318/ss.png_lfmurn.png",
+        "length" :"Valorant",
+        "text" : "VA",
+          "height": "112vh",
+        "drop":"drop-shadow(10px 10px 10px #3A6E99)",
+        "text2" : "LORA",
+         "text1" : "NT",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757230866/Reflection____Redemption_-_VALORANT_Masters_Toronto_Cinematic_-_VALORANT_1080p_h264_ons676.mp4",
+        "color": "#3A6E99"
+    },
+    {  
+        "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dcnqkrx-f092a423-8fa0-45d4-a034-70cfcb96e5a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGNucWtyeC1mMDkyYTQyMy04ZmEwLTQ1ZDQtYTAzNC03MGNmY2I5NmU1YTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kQFp6s4C23AevVU89EPM8w-BEe_pc9S04gNUTfIcO6Y",
+        "length" :"Marvel Spider Man 2",
+        "text" : "Marval",
+        "drop":"drop-shadow(10px 10px 10px #611213)",
+        "text2" : "spider",
+        "margin":"0% 0% 0% 15%",
+         "text1" : "man 2",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757230913/Marvel_s_Spider-Man_2_-_Be_Greater._Together._Trailer_I_PS5_Games_-_PlayStation_1080p_h264_gfpjsr.mp4",
+        "color": "#3A6E99"
+    },
+     {  
+       "img":"https://pngimg.com/d/red_dead_redemption_PNG10.png",  
+       "length" :"Read Dead Redemption 2",
+        "text" : "R",
+        "drop":"drop-shadow(10px 10px 10px #5C0F04)",
+        "text2" : "D",
+        "height": "98vh",
+        "margin":"2% 0% 0% 22%",
+         "text1" : "Redemption 2",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757244730/Red_Dead_Redemption_2_Trailer_ipz86o.mp4",
+        "color": "#3A6E99"
+    },
+    {  
+       "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4bba41e-2420-42ec-8c4f-95844dd273dc/di47cip-c4064101-b5fe-4e27-8aeb-5148b3808cd4.png/v1/fill/w_1280,h_1280/sun_wukong__black_myth__render_by_eternalashen_di47cip-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2I0YmJhNDFlLTI0MjAtNDJlYy04YzRmLTk1ODQ0ZGQyNzNkY1wvZGk0N2NpcC1jNDA2NDEwMS1iNWZlLTRlMjctOGFlYi01MTQ4YjM4MDhjZDQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._k_YeXuE54LmeKHXc32PXEmTHwWkfB8vv1op1urnOSw",  
+       "length" :"Black Myth: Wukong",
+        "text" : "Black",
+        "drop":"drop-shadow(10px 10px 10px #62533D)",
+        "text2" : "Myth",
+        "margin":"2% 0% 0% 20%",
+         "text1" : ":Wukong",
+         "height": "98vh",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757229999/4k_a7t2c6.mp4",
+        "color": "#3A6E99"
+    },
+        {  
+         "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10f1be77-7af3-4b32-97ba-7dba98dc0e86/dfj68wx-d84dadcc-344d-4599-b53c-c3dfcaa46852.png/v1/fill/w_973,h_821,strp/god_of_war_4_png_by_coveraddict_dfj68wx-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzEwZjFiZTc3LTdhZjMtNGIzMi05N2JhLTdkYmE5OGRjMGU4NlwvZGZqNjh3eC1kODRkYWRjYy0zNDRkLTQ1OTktYjUzYy1jM2RmY2FhNDY4NTIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2WhL4tQ6XFYZ_xMJ4rZ22q_FfeBttGVXaoMAxcwZ3YA", 
+        "length" :"God of War Ragnarok",
+        "text" : "god",
+        "drop":"drop-shadow(10px 10px 10px #634B48)",
+        "text2" : "of war",
+         "height": "98vh",
+        "margin":"1% 0% 0% 22%",
+         "text1" : "ragnarok",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757244397/God_of_War_Ragnar%C3%B6k__Valhalla_-_Reveal_Trailer___PS5_PS4_Games_xlnnik.mp4",
+        "color": "#3A6E99"
+    },
+     {  
+         "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2e3247-62d6-4d91-8b66-596cdde4d62b/deh2lwq-6e5f91e0-229c-42fa-91af-621504879cd4.png/v1/fill/w_1280,h_1377/roman_reigns_png_render_wwe_2021_by_v_mozz_deh2lwq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3NyIsInBhdGgiOiJcL2ZcLzFmMmUzMjQ3LTYyZDYtNGQ5MS04YjY2LTU5NmNkZGU0ZDYyYlwvZGVoMmx3cS02ZTVmOTFlMC0yMjljLTQyZmEtOTFhZi02MjE1MDQ4NzljZDQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tRgt_7OBfThVkjYrWIpcTc-Dgqv0wly6g-Nlq34AwNQ", 
+        "length" :"WWE 2K24",
+        "text" : "wwe",
+        "drop":"drop-shadow(10px 10px 10px #55524F)",
+        "text2" : "2k",
+        "margin":"5% 0% 0% 28%",
+         "text1" : "24",
+          "height": "90vh",
+        "video" : "https://res.cloudinary.com/dycmuvzze/video/upload/v1757230171/2k_h7dlvt.mp4",
+        "color": "#3A6E99"
+    }
+]

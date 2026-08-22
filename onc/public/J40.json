@@ -1,0 +1,76 @@
+[
+    {
+        "img" :"https://www.ixpap.com/images/2023/12/GTA-6-Wallpaper-8.jpg",
+        "name" : "Grand Theft Auto VI",
+        "g1" : "Open World",
+        "g2" : "Crime Drama",
+        "relase" :"May 26, 2026",
+        "summary" : "After a botched bank robbery, Lucia and Jason find themselves entangled in a vast criminal conspiracy. Forced to rely on each other, they traverse the diverse landscapes of Leonida, confronting challenges that test their bond and survival instincts"
+    },
+     {
+        "img" :"https://assets-prd.ignimgs.com/2023/11/16/inzoi-thumb-1700177770876.jpg",
+        "name" : "inZOI",
+        "g1" : " Sandbox",
+        "g2" : "Single-player",
+        "relase" :"March 28, 2025",
+        "summary" : "In inZOI, players assume the role of an intern at a virtual reality company called AR COMPANY. Their task is to manage a neighborhood of virtual individuals known as Zois Each Zoi possesses unique personalities, routines, and relationships, leading to dynamic and emergent gameplay scenarios"
+    },
+     {
+        "img" :"https://wallpapercave.com/wp/wp4643440.jpg",
+        "name" : "Fable",
+        "g1" : " Action",
+        "g2" : "Role-Playing",
+        "relase" :"2026",
+        "summary" : "A reboot of the beloved franchise, Fable returns with a new narrative set in the whimsical world of Albion, combining humor, magic, and adventure"
+    }, {
+        "img" :"https://images.hdqwalls.com/download/marvel-1943-rise-of-hydra-2025-game-2c-1280x2120.jpg",
+        "name" : "Marvel 1943: Rise of Hydra",
+        "g1" : "Action",
+        "g2" : "Advancher",
+        "relase" :"2026",
+        "summary" : "Set during World War II in occupied Paris, players control Captain America and Black Panther as they team up to thwart Hydra's plans"
+    }
+    , {
+        "img" :"https://multiplayer.net-cdn.it/thumbs/images/2025/01/29/destiny-2-star-wars-1_jpeg_1600x900_crop_q85.jpg",
+        "name" : "Star Wars: Zero Company",
+        "g1" : "Turn-Based ",
+        "g2" : "Tactics",
+        "relase" :"2026",
+        "summary" : "A tactical game set in the Clone Wars era, players lead a customizable squad, including Mandalorians and Jedi, on missions across the galaxy"
+    }, {
+        "img" :"https://wallpaperaccess.com/full/1118872.jpg",
+        "name" : "Warhammer 40,000: Boltgun 2",
+        "g1" : "First-Person",
+        "g2" : "Shooter",
+        "relase" :"2026",
+        "summary" : "A sequel to the retro-inspired shooter, Boltgun 2 continues the fast-paced action in the Warhammer 40K universe"
+    }, {
+        "img" :"https://i.3djuegos.com/juegos/20137/onimusha_way_of_the_sword/fotos/ficha/onimusha_way_of_the_sword-5936700.jpg",
+        "name" : "Onimusha: Way of the Sword",
+        "g1" : "Action",
+        "g2" : "Advancher",
+        "relase" :"2026",
+        "summary" : "Capcom revives the classic samurai series with modern graphics and gameplay, blending historical Japan with supernatural elements"
+    }, {
+        "img" :"https://gagadget.com/media/post_big/saros-character-screenshot.jpg",
+        "name" : "Saros",
+        "g1" : "Action",
+        "g2" : "RPG",
+        "relase" :"2026",
+        "summary" : "From Housemarque, known for Returnal, Saros is an upcoming action game with details yet to be fully revealed."
+    }, {
+        "img" :"https://wallpaperaccess.com/full/1692002.jpg",
+        "name" : "The Witcher 4",
+        "g1" : "Action",
+        "g2" : "RPG",
+        "relase" :"2027",
+        "summary" : "CD Projekt Red continues the saga with a new protagonist and storyline, expanding the rich world of The Witcher series."
+    }, {
+        "img" :"https://www.juejinka.com/news/wp-content/uploads/2024/05/2024052105201367.png",
+        "name" : "Project Witches",
+        "g1" : "Action",
+        "g2" : "Role-Playing",
+        "relase" :"2027",
+        "summary" : "A new IP focusing on witchcraft and magic, offering players a dark fantasy experience."
+    }
+]

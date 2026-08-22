@@ -1,0 +1,122 @@
+[
+    {
+      "img" : "https://www.pngmart.com/files/21/Action-Game-PNG-Image.png",
+      "back": "https://i.pinimg.com/736x/8d/b6/5d/8db65db065e18eb254eb108c2902660d.jpg",
+      "name": "Action",
+      "color": "#45529e91"  
+    },
+     {
+      "back" : "https://i.pinimg.com/1200x/38/e4/ff/38e4ff12251be29af60de0d824e9597a.jpg",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9eb92786-5e60-46ac-ae2c-d33af137f691/ddxmepq-38b395f2-fb01-4875-bb98-b2fbca005bc7.png/v1/fill/w_1280,h_929,strp/ghost_of_tsushima_render_by_outlawninja_ddxmepq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTI5IiwicGF0aCI6IlwvZlwvOWViOTI3ODYtNWU2MC00NmFjLWFlMmMtZDMzYWYxMzdmNjkxXC9kZHhtZXBxLTM4YjM5NWYyLWZiMDEtNDg3NS1iYjk4LWIyZmJjYTAwNWJjNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Asu93MvGcynD3vSVR6vSyf66H0LrOBIEVQ1brjWo7M0",
+      "name": "Story",
+      "color": "#b2644289"  
+    },
+     {
+      "back" : "https://i.pinimg.com/736x/97/7c/34/977c34ce308500af4e3d790d5def5804.jpg",
+      "img": "https://www.pngall.com/wp-content/uploads/4/Geralt-Of-Rivia-PNG-File.png",
+      "name": "rpg",
+      "color": "#2f434498"  
+    },
+     {
+      "back" : "https://cdn.wallpapersafari.com/66/95/zsI8yE.jpg",
+      "img": "https://www.pinclipart.com/picdir/big/102-1025331_1140-2160566-scribblenauts-max-clipart.png",
+      "name": "Educational",
+      "color": "#44748b97"  
+    },
+     {
+      "back" : "https://thumbs.dreamstime.com/b/test-cricket-match-international-england-india-edgbaston-birmingham-england-uk-64683030.jpg",
+      "img": "https://th.bing.com/th/id/R.d1a1c3688bbe33fcb8e3abf1b430db41?rik=jg3MOscMZ2eRCQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fcricket%2fcricket_PNG92.png&ehk=3lDMbCagGDmP6f%2bk9t7c3LSS9b7EoxWaOplB2MZA8FQ%3d&risl=&pid=ImgRaw&r=0",
+      "name": "Sports",
+      "color": "#557a6093"  
+    },
+     {
+      "back" : "https://parade.com/.image/t_share/MTk5NjYxMjYyOTkxMjcxNTUy/best-board-games-for-kids.jpg",
+      "img": "https://png.pngtree.com/png-vector/20240201/ourmid/pngtree-board-game-on-the-table-isometric-view-png-image_11582815.png",
+      "name": "Board Game",
+      "color": "#7992a791"  
+    },
+     {
+      "name" : "Family",
+      "img": "https://png.pngtree.com/png-vector/20240518/ourmid/pngtree-family-board-games-infographics-png-image_12484407.png",
+      "back": "https://img.freepik.com/free-vector/outdoor-scene-with-big-family-group_1308-54209.jpg?w=2000",
+      "color": "#2656678a"  
+    },
+     {
+      "back" : "https://nintendoeverything.com/wp-content/uploads/sites/1/nggallery/animal-crossing-new-horizons-jan-1/animal-crossing-new-horizons-1.jpg",
+      "img" : "https://static.wixstatic.com/media/3ccb41_eb7daaa550c449a2b8a4c16479c2c935~mv2.png/v1/fill/w_952,h_1008,al_c,usm_0.66_1.00_0.01/animal-crossing-new-leaf-png-transparent.png", 
+      "name": "Casual",
+      "color": "#5a9f4570"  
+    },
+     {
+      "back" : "https://1.bp.blogspot.com/-v4Ea1uPMlEE/YOXMPGTL71I/AAAAAAAAal0/tE0aZNw6nkkhFLg7tGJrhEuwgLJ2U2KvwCLcBGAsYHQ/s1920/among-us-edicao-colecionador-maximum-games.jpg",
+      "img": "https://crystalpng.com/wp-content/uploads/2025/03/among_us_png.png",
+      "name": "Strategy",
+      "color": "#4c46368b"  
+    },
+     {
+      "back" : "https://friendsgamenight.com/wp-content/uploads/2024/01/Card-Games.jpg",
+      "img": "https://th.bing.com/th/id/R.b46d1ed422dccbfe1310814fcbe77688?rik=RfqrC3rKCP1%2fWw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fcards-hd-png-playing-cards-png-2030.png&ehk=sXTpg%2bLeUkb3D0JZMtkVtOszpJ%2f%2b7EqpQt8N2oPMmOk%3d&risl=1&pid=ImgRaw&r=0",
+      "name": "Card",
+      "color": "#7933209b"  
+    },
+     {
+      "back" : "https://cdn2.unrealengine.com/dead-cells-key-art-1920x1080-5421f07809d4.jpg",
+      "img": "https://www.pngkit.com/png/full/54-547630_-img-dead-cells-early-access.png",
+      "name": "Indie",
+      "color": "#5267267b"  
+    },
+     {
+      "back" : "https://cdn.wccftech.com/wp-content/uploads/2015/06/Fortnight-2.png",
+      "img": "https://res.cloudinary.com/dycmuvzze/image/upload/v1757246894/rock_rdnrpr.png",
+      "name": "Multiplayer",
+      "color": "#3c489785"  
+    },
+     {
+      "back" : "https://www.theouterhaven.net/wp-content/uploads/2022/08/MHUR_announcement_thumbnail.jpg",
+      "img": "https://derpicdn.net/avatars/2021/3/15/1615843251483596086102230.png",
+      "name": "Battle Royale",
+      "color": "#25ccde70"  
+    },
+     {
+      "back" : "https://eskipaper.com/images/team-fortress-2-1.jpg",
+      "img": "https://wiki.teamfortress.com/w/images/archive/0/08/20110818172129!Heavy.png",
+      "name": "Shooter",
+      "color": "#8074668e"  
+    },
+     {
+      "back" : "https://tse4.mm.bing.net/th/id/OIP.ScIn7Ojv1DLV61Sl_QjxmAHaEK?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "img": "https://www.pngarts.com/files/3/Donkey-Kong-Free-PNG-Image.png",
+      "name": "Arcade",
+      "color": "#dd9f737c"  
+    },
+     {
+      "back" : "https://i.pinimg.com/originals/fa/c0/e9/fac0e90eb99ab169106b55fc51908e28.jpg",
+      "img": "https://rimworldwiki.com/images/thumb/3/35/Phoebe.png/556px-Phoebe.png",
+      "name": "Simulation",
+      "color": "#3d414a73"  
+    },
+     {
+      "back" : "https://tse2.mm.bing.net/th/id/OIP.ur06NKKYYfONrlvAj-D3ngHaEK?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "img": "https://www.pngkit.com/png/full/15-156923_mark-of-the-ninja-mark-of-the-ninja.png",
+      "name": "Platformer",
+      "color": "#323c369c"  
+    },
+       {
+      "back" : "https://media.eventhubs.com/images/2017/11/30_mvcicostumes02.jpg",
+      "img": "https://pngfre.com/wp-content/uploads/hulk-9-768x878.png",
+      "name": "Fighting",
+      "color": "#c3966373"  
+    },
+     {
+      "back" : "https://omgnepal.com/wp-content/uploads/2020/07/Best-Beginner-Road-Bikes-gear-patrol-full-lead.jpg",
+      "img": "https://png.pngtree.com/png-clipart/20220125/original/pngtree-bike-race-png-image_7219114.png",
+      "name": "Racing",
+      "color": "#c3b59a7c"  
+    },
+       {
+      "back" : "https://wallpapers.com/images/hd/oneshot-character-niko-night-scene-isuxdy4nu90p7u75.jpg",
+      "img": "https://vignette.wikia.nocookie.net/fcs-vs-battle/images/5/5d/OneShot_Niko_Vector.png/revision/latest/scale-to-width-down/348?cb=20200425171527",
+      "name": "Puzzle",
+      "color": "#574800a3"  
+    }
+]
